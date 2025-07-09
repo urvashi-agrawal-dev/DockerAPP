@@ -5,13 +5,6 @@ Node.js + MongoDB Atlas user form project:
 A beginner-friendly Node.js application that connects a simple HTML form to a MongoDB Atlas database. Users can submit data using the form, and the backend stores it securely in the cloud.
 ![image](https://github.com/user-attachments/assets/8eceea49-b669-42bc-9591-3d82991b16b1)
 
-
-## 🌐 Live Demo
-
-> Coming Soon (You can deploy it later using **Render**, **Railway**, or **Vercel**)
-
----
-
 ## 📂 Project Structure
 
 ```
